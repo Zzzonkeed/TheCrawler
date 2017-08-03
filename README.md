@@ -1,2 +1,2 @@
 # TheCrawler
-A bot that learn to crawl
+Arduino implementation of the Q-Learning algorithm for a crawling robot with two servos and a wheel encoder.
